@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MatrixMul": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OMP_NUM_THREADS": "16"
+      }
+    }
+  }
+}

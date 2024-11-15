@@ -5,7 +5,7 @@ This works with Python 3.11, because that's a version Windows suggests installin
 Ensure 
 
 ```
-python -m venv npblas-env
+python3.11 -m venv npblas-env
 ```
 
 Windows:
@@ -15,7 +15,7 @@ npblas-env\Scripts\Activate.ps1
 
 Linux:
 ```
-npblas-env\Scripts\activate
+source npblas-env/bin/activate
 ```
 
 Then:
